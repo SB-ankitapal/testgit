@@ -1,0 +1,15 @@
+title: Test2Model
+x-stoplight:
+  id: ohrwhzxtnxbzz
+x-tags:
+  - Model2
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: r98o8mhh7ncv2
+  name:
+    type: string
+    x-stoplight:
+      id: yebolmx9os2tt
