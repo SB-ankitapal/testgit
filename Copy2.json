@@ -1,0 +1,15 @@
+{
+  "title": "Copy2",
+  "x-stoplight": {
+    "id": "mub95ihn7qjbp"
+  },
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "x-stoplight": {
+        "id": "ur58m2fx7u92w"
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+title: TestModel1
+x-stoplight:
+  id: 1mne2ynafe22t
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: je6dwzgk47n5e

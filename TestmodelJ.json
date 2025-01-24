@@ -1,0 +1,15 @@
+{
+  "title": "TestmodelJ",
+  "x-stoplight": {
+    "id": "i19i6ygukosew"
+  },
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "x-stoplight": {
+        "id": "lsigdphxr76pt"
+      }
+    }
+  }
+}

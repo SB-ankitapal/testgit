@@ -1,0 +1,9 @@
+title: TestYmodel
+x-stoplight:
+  id: i19i6ygukosew
+type: object
+properties:
+  id:
+    type: string
+    x-stoplight:
+      id: i19i6ygukosew

@@ -1,0 +1,15 @@
+{
+  "title": "Copy1",
+  "x-stoplight": {
+    "id": "bpx59a2kw9p1d"
+  },
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "x-stoplight": {
+        "id": "bpx59a2kw9p1d"
+      }
+    }
+  }
+}
